@@ -7,4 +7,4 @@
 
 Technology lover and always looking for the best frameworks to build incredible things.
 
-#foodlover
+Working as a senior software engineer at Coinbase.
